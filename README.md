@@ -1,2 +1,2 @@
 # Programming-Fundamentals-Project
-GROCERY STORE MANAGEMENT SYSTEM
+This project, developed in C language during the first semester of my University, is a comprehensive Grocery Store Management System. The user-friendly menu interface allows users to seamlessly navigate through various functionalities, including initiating a shopping experience, viewing available items and their details, exploring project credits and gracefully exiting the system. The code showcases fundamental programming principles and serves as an excellent resource for understanding menu-driven console applications. Explore the world of C programming with this practical and interactive grocery store project, now available on GitHub.
